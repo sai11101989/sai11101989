@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sai Anirudh Karre
+- 👀 I’m interested in VR product development
+- 💞️ I’m looking to collaborate on VR algorithm design and R&D with VR
+- 📫 How to reach me at saianirudh.karri@research.iiit.ac.in
