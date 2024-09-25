@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Anirudh Karre
-- 👀 I’m interested in VR product development
-- 💞️ I’m looking to collaborate on VR algorithm design and R&D with VR
-- 📫 How to reach me at saianirudh.karri@research.iiit.ac.in
+- 👋 Hi, I’m Sai Anirudh Karre and I am not much active on GitHub
+- 👀 I’m interested in OpenSource Sofware products with a focus on VR,GenAI and Data
+- 💞️ I’m looking to collaborate on VR algorithm design, Data Driven Tools and R&D with VR/Data
+- 📫 How to reach me at sai11101989@gmail.com
